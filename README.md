@@ -109,7 +109,6 @@ CORS enabled for controlled frontend-backend communication
 ---> Develop Lambda function and attach DynamoDB permissions
 
 ---> Create API Gateway REST API and integrate Lambda
-
 ---> Update frontend API endpoint URL
 -----------------------------------------------------------------------------------------------------------
 Conclusion :--
