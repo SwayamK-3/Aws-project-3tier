@@ -58,9 +58,9 @@ Feedback content
 
 Highly scalable, durable, and low-latency storage
 -------------------------------------------------------------------------------
-Detailed Workflow
+Detailed Workflow :--
 
-1. User opens the web application hosted on Amazon S3
+1. User opens the web application hosted on Amazon S3 and distributed globally using CloudFront CDN
 
 2. User fills out the feedback form and clicks Submit
 
@@ -77,6 +77,7 @@ Stores feedback in DynamoDB
 Returns success or error response
 
 6. Frontend displays confirmation message to the user
+   
 
 ----------------------------------------------------------------
 AWS Services Used         Service	Purpose
